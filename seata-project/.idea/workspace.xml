@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dbcf541b-754e-40a6-bfb1-d7bd9836c5f2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\maven\local_repo\maven_repository" />
+        <option name="mavenHome" value="E:/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal -Dfile.encoding=UTF-8" />
+  </component>
+  <component name="ProjectId" id="1aQ9PggjEyPSps0Rnmv1Nh9g3HK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\新建文件夹\seata-project\storage-model\src\main\resources" />
+      <recent name="C:\Users\Administrator\Desktop\新建文件夹\seata-project\storage-model\src\main\java\com\abu\storage" />
+      <recent name="C:\Users\Administrator\Desktop\新建文件夹\seata-project\order-model\src\main\resources" />
+      <recent name="C:\Users\Administrator\Desktop\新建文件夹\seata-project\order-model\src\main\java\com\abu\order" />
+      <recent name="C:\Users\Administrator\Desktop\新建文件夹\seata-project\order-model\src\test\java\com\abu\ordermodel" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.abu.storage.config" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\新建文件夹\seata-project\storage-model\src\main\resources\mapper" />
+      <recent name="C:\Users\Administrator\Desktop\新建文件夹\seata-project\order-model\src\main\resources\mapper" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.AbuMpGenerator">
+    <configuration name="AbuMpGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.abu.order.AbuMpGenerator" />
+      <module name="order-model" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.abu.order.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderModelApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="order-model" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.abu.order.OrderModelApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StorageModelApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="storage-model" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.abu.storage.StorageModelApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.91" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_Default_(Template)_Project" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51146" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.AbuMpGenerator" />
+      <item itemvalue="Spring Boot.OrderModelApplication" />
+      <item itemvalue="Spring Boot.StorageModelApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AbuMpGenerator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.2889585" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbcf541b-754e-40a6-bfb1-d7bd9836c5f2" name="Default Changelist" comment="" />
+      <created>1586656928132</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586656928132</updated>
+      <workItem from="1586656931907" duration="12148000" />
+      <workItem from="1586682723688" duration="867000" />
+      <workItem from="1586683959159" duration="2330000" />
+      <workItem from="1586686486918" duration="2575000" />
+      <workItem from="1586692801549" duration="11000" />
+      <workItem from="1586692838147" duration="107000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="123" y="0" width="1137" height="728" key="#OrderModelApplication" timestamp="1586685989540">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="123" y="0" width="1137" height="728" key="#OrderModelApplication/0.0.1366.728@0.0.1366.728" timestamp="1586685989540" />
+    <state x="175" y="0" key="#Project_Structure" timestamp="1586661958754">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="175" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1586661958754" />
+    <state x="123" y="0" width="1137" height="728" key="#StorageModelApplication_(1)" timestamp="1586686005479">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="123" y="0" width="1137" height="728" key="#StorageModelApplication_(1)/0.0.1366.728@0.0.1366.728" timestamp="1586686005479" />
+    <state x="358" y="107" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586686004902">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="358" y="107" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1586686004902" />
+    <state x="112" y="277" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1586662006426">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="112" y="277" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1586662006426" />
+    <state width="464" height="546" key="DebuggerActiveHint" timestamp="1586668798586">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="464" height="546" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1586668798586" />
+    <state x="413" y="45" key="FileChooserDialogImpl" timestamp="1586658292870">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="45" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586658292870" />
+    <state width="907" height="277" key="GridCell.Tab.0.bottom" timestamp="1586686311846">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="907" height="277" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586686311846" />
+    <state width="907" height="277" key="GridCell.Tab.0.center" timestamp="1586686311846">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="907" height="277" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586686311846" />
+    <state width="907" height="277" key="GridCell.Tab.0.left" timestamp="1586686311846">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="907" height="277" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586686311846" />
+    <state width="907" height="277" key="GridCell.Tab.0.right" timestamp="1586686311846">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="907" height="277" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586686311846" />
+    <state width="907" height="277" key="GridCell.Tab.1.bottom" timestamp="1586686311846">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="907" height="277" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586686311846" />
+    <state width="907" height="277" key="GridCell.Tab.1.center" timestamp="1586686311846">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="907" height="277" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586686311846" />
+    <state width="907" height="277" key="GridCell.Tab.1.left" timestamp="1586686311846">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="907" height="277" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586686311846" />
+    <state width="907" height="277" key="GridCell.Tab.1.right" timestamp="1586686311846">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="907" height="277" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586686311846" />
+    <state x="60" y="0" key="SettingsEditor" timestamp="1586656980782">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="60" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586656980782" />
+    <state x="0" y="0" width="1366" height="693" key="new project wizard" timestamp="1586661952254">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" width="1366" height="693" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1586661952254" />
+  </component>
+</project>
